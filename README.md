@@ -1,2 +1,2 @@
-# Cal
+# Python
 Faulty calculator
